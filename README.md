@@ -56,7 +56,7 @@ Dans ce README, on utilisera des variables génériques :
 
 Le schéma suivant illustre la topologie réseau complète du projet avec les connexions entre les différents composants :
 
-![Schéma Cisco Packet Tracer de fonctionnement du projet](<img width="1280" height="527" alt="image" src="https://github.com/user-attachments/assets/892c6809-ac42-4b72-807a-0ed93fa744fb" />)
+![Schéma Cisco Packet Tracer de fonctionnement du projet](images/schéma Cisco packet  tracer de fonctionnement projet.jpg)
 )
 
 > **Note :** Le fichier source `.pkt` est disponible dans le dossier `Zabbix schéma Cisco/` pour une visualisation interactive dans Cisco Packet Tracer.
