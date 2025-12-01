@@ -50,14 +50,13 @@ Dans ce README, on utilisera des variables génériques :
 
 ### 1.2. Schéma de l'architecture
 
-![Diagramme de l'architecture Zabbix et Kubernetes](images/schéma%20Cisco%20packet%20tracer%20de%20fonctionnement%20projet.jpg)
+![Diagramme de l'architecture Zabbix et Kubernetes](images/Diagramme%20Mermaid%20zabbix%20kubernetes.png)
 
 ### 1.3. Schéma réseau détaillé (Cisco Packet Tracer)
 
 Le schéma suivant illustre la topologie réseau complète du projet avec les connexions entre les différents composants :
 
-![Schéma Cisco Packet Tracer de fonctionnement du projet](images/schéma Cisco packet  tracer de fonctionnement projet.jpg)
-)
+![Schéma Cisco Packet Tracer de fonctionnement du projet](images/schéma%20Cisco%20packet%20tracer%20de%20fonctionnement%20projet.jpg)
 
 > **Note :** Le fichier source `.pkt` est disponible dans le dossier `Zabbix schéma Cisco/` pour une visualisation interactive dans Cisco Packet Tracer.
 
