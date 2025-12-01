@@ -50,7 +50,7 @@ Dans ce README, on utilisera des variables génériques :
 
 ### 1.2. Schéma de l'architecture
 
-![Diagramme de l'architecture Zabbix et Kubernetes](images/Diagramme%20Mermaid%20zabbix%20kubernetes.png)
+![Diagramme de l'architecture Zabbix et Kubernetes](images/schéma%20Cisco%20packet%20tracer%20de%20fonctionnement%20projet.jpg)
 
 ### 1.3. Schéma réseau détaillé (Cisco Packet Tracer)
 
