@@ -11,7 +11,7 @@ L'objectif est d'ajouter une **brique de supervision complète** autour du clust
 - Surveillance d'une application Kubernetes via un **scénario web**
 - Production de tableaux de bord et de schémas pour le rapport
 
-Tout est réalisé dans un contexte **Hyper-V** sur des VMs Ubuntu, en respectant les principes de cybersécurité (aucun mot de passe ou IP sensible n'apparaît dans le code).
+Tout est réalisé dans un contexte **Hyper-V** sur des VMs Ubuntu.
 
 ---
 
